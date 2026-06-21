@@ -1,0 +1,51 @@
+[
+    {
+        "ID": "905006339",
+        "Name": "Alfred Vandi",
+        "Mark": 100.0,
+        "Grade": "A",
+        "Status": "Excellent"
+    },
+    {
+        "ID": "905006315",
+        "Name": "Mohamed Sheriff Kabia",
+        "Mark": 90.0,
+        "Grade": "A",
+        "Status": "Excellent"
+    },
+    {
+        "ID": "905006338",
+        "Name": "Haja Amie Sombie",
+        "Mark": 80.0,
+        "Grade": "A",
+        "Status": "Excellent"
+    },
+    {
+        "ID": "905006435",
+        "Name": "Angella S. Yankuba",
+        "Mark": 70.0,
+        "Grade": "B",
+        "Status": "Good"
+    },
+    {
+        "ID": "905006290",
+        "Name": "Francess M. Kamara",
+        "Mark": 60.0,
+        "Grade": "C",
+        "Status": "Credit"
+    },
+    {
+        "ID": "905006322",
+        "Name": "Aminata M. Bah",
+        "Mark": 50.0,
+        "Grade": "D",
+        "Status": "Pass"
+    },
+    {
+        "ID": "905006337",
+        "Name": "Super Deen",
+        "Mark": 40.0,
+        "Grade": "F",
+        "Status": "Fail"
+    }
+]
